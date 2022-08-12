@@ -1,5 +1,9 @@
 Rencana Kerja Galang
 
 -Fullstack Developer
+*Javascript
+*MongoDB
+*HTML 5
+*Angular JS
 -Front-End Developer
 -Back-End Developer
