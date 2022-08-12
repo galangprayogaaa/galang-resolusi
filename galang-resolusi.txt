@@ -2,3 +2,4 @@ Galang Resolusi
 - Konsisten Untuk Belajar Web Developer
 - Memahami Semua Requirments Untuk Menjadi Web Developer
 - Menjadi Seorang Fullstack Web Developer
+- Membuat Website Pribadi
