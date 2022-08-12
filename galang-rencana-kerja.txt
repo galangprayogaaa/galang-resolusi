@@ -2,8 +2,10 @@ Rencana Kerja Galang
 
 -Fullstack Developer
 *Javascript
+-Belajar Lewat Channel WPU
 *MongoDB
 *HTML 5
+-Belajar Lewat Channel WPU
 *Angular JS
 -Front-End Developer
 -Css Grid
