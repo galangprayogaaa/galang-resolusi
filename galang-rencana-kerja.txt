@@ -1,0 +1,5 @@
+Rencana Kerja Galang
+
+-Fullstack Developer
+-Front-End Developer
+-Back-End Developer
