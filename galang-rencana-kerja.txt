@@ -6,4 +6,7 @@ Rencana Kerja Galang
 *HTML 5
 *Angular JS
 -Front-End Developer
+-Css Grid
+-Flexbox
+-SASS
 -Back-End Developer
