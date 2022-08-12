@@ -9,4 +9,5 @@ Rencana Kerja Galang
 -Css Grid
 -Flexbox
 -SASS
--Back-End Developer
+-Belajar Android Developer
+*ReacJS
